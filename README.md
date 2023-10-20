@@ -1,7 +1,6 @@
 Maxim Joel Carbonell-Kiamtia
 mjcarbon
-Fall 2022
-asgn2
+
 
 ---------------------
 DESCRIPTION: This directory is for the purposes of generating a queue that is capable of handling multiple threads(simultaneous pushes and pops to the same queue while keeping the same order). 
